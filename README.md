@@ -127,14 +127,6 @@ All in SQLite (`kora.db`, auto-created on first run):
 
 ---
 
-## Hackathon Submission
-
-- **Writeup:** [KAGGLE_WRITEUP.md](./KAGGLE_WRITEUP.md) (1,328 words)
-- **Video script:** [VIDEO_SCRIPT.md](./VIDEO_SCRIPT.md)
-- **Tracks:** Main · Future of Education Impact · Digital Equity Impact
-
----
-
 ## Tech
 
 Python 3.11 · Gradio · SQLite (stdlib) · Mermaid.js · Ollama · Gemma 3 4B (4.3B Q4_K_M)
