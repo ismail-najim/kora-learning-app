@@ -1,6 +1,6 @@
 # Kora — Learn Anything. Adapted to You. Fully Offline.
 
-**Subtitle:** An on-device adaptive learning app powered entirely by Gemma 4. One model. Eleven roles. Zero cloud.
+**Subtitle:** An on-device adaptive learning app powered entirely by Gemma 4. 
 
 **Track:** Main Track · Future of Education Impact Track · Digital Equity Impact Track
 
@@ -105,12 +105,4 @@ SQLite holds five tables: `learning_profile`, `topic_session`, `module` (content
 
 **Cohort mode.** Share a topic with a study group. Each learner's adapted profile shapes their personal path while the group sees shared progress.
 
----
 
-## Links
-
-- **Code:** [github.com/ismail-najim/kora-learning-app](https://github.com/ismail-najim/kora-learning-app)
-- **Live demo:** [YouTube walkthrough](https://youtu.be/xxxxxx)
-- **3-min video:** [youtu.be/xxxxxx](https://youtu.be/xxxxxx)
-
-**One model. Eleven roles. Zero cloud. Built for the Gemma 4 Good Hackathon.**
