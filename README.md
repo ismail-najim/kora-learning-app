@@ -131,4 +131,4 @@ All in SQLite (`kora.db`, auto-created on first run):
 
 Python 3.11 · Gradio · SQLite (stdlib) · Mermaid.js · Ollama · Gemma 3 4B (4.3B Q4_K_M)
 
-Built with care for the Gemma 4 Good Hackathon. **One model. Eleven roles. Zero cloud.**
+Built with care for the Gemma 4 Good Hackathon. 
